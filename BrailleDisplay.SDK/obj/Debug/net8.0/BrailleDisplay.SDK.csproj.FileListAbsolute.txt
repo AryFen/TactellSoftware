@@ -1,0 +1,12 @@
+C:\Users\s\source\repos\BrailleDisplay.SDK\bin\Debug\net8.0\BrailleDisplay.SDK.deps.json
+C:\Users\s\source\repos\BrailleDisplay.SDK\bin\Debug\net8.0\BrailleDisplay.SDK.dll
+C:\Users\s\source\repos\BrailleDisplay.SDK\bin\Debug\net8.0\BrailleDisplay.SDK.pdb
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\BrailleDisplay.SDK.csproj.AssemblyReference.cache
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\BrailleDisplay.SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\BrailleDisplay.SDK.AssemblyInfoInputs.cache
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\BrailleDisplay.SDK.AssemblyInfo.cs
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\BrailleDisplay.SDK.csproj.CoreCompileInputs.cache
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\BrailleDisplay.SDK.dll
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\refint\BrailleDisplay.SDK.dll
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\BrailleDisplay.SDK.pdb
+C:\Users\s\source\repos\BrailleDisplay.SDK\obj\Debug\net8.0\ref\BrailleDisplay.SDK.dll
