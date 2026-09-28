@@ -620,10 +620,10 @@ namespace BrailleDisplay.Demo
             Console.WriteLine("║     THE FORBIDDEN FOREST MYSTERY - A HP Adventure          ║");
             Console.WriteLine("╚════════════════════════════════════════════════════════════╝");
             Console.WriteLine();
-            Console.WriteLine("📖 Your choices shape the story");
-            Console.WriteLine("🎯 Earn Courage, Wisdom, and Friendship points");
-            Console.WriteLine("🔖 Bookmark memorable moments");
-            Console.WriteLine("🏆 Discover multiple endings!");
+            Console.WriteLine("Your choices shape the story");
+            Console.WriteLine("Earn Courage, Wisdom, and Friendship points");
+            Console.WriteLine("Bookmark memorable moments");
+            Console.WriteLine("Discover multiple endings!");
             Console.WriteLine();
             Console.WriteLine("Button Guide:");
             Console.WriteLine("  Next/Previous Element : Navigate choices");
@@ -795,7 +795,7 @@ namespace BrailleDisplay.Demo
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"\n❌ Error: {ex.Message}");
+                Console.WriteLine($"\nError: {ex.Message}");
                 Console.WriteLine("\nMake sure your braille display is connected!");
                 Console.WriteLine($"Usage: HarryPotterGame.exe {port}");
             }
