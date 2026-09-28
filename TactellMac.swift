@@ -537,7 +537,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         let accessEnabled = AXIsProcessTrustedWithOptions(options)
         
         if !accessEnabled {
-            print("⚠️ Accessibility permissions required!")
+            print("Accessibility permissions required!")
             print("Please grant accessibility access in System Preferences > Security & Privacy > Accessibility")
         }
     }
